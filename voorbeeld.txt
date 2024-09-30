@@ -1,1 +1,2 @@
 Dit is een voorbeeld van DevOps
+Hier voeg ik een extra lijn toe.
